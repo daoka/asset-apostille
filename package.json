@@ -1,0 +1,15 @@
+{
+  "name": "asset-apostille",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.21",
+    "nem-library": "^2.0.0-RC5.2"
+  }
+}
