@@ -1,4 +1,4 @@
-# Asset Apostille
+# Apostille asset
 
 ## 背景
 
@@ -69,8 +69,8 @@
 
 1. アポスティーユを行う
 2. モザイクの作成を行う。モザイクのプロパティはNEM1と同じように設定するが、モザイクのメタデータに以下の内容を設定する
-    - originHash: アポスティーユ作成時のTxHash
-    - signedHash: originHashをアポスティーユを作成したアカウントの秘密鍵で署名し生成された文字列
+    - OriginalHash: アポスティーユ作成時のTxHash
+    - SignedHash: OriginalHashをアポスティーユを作成したアカウントの秘密鍵で署名し生成された文字列
 3. ネームスペースは任意のものを紐付けることができる
 
 ### NEN2(Catapult)でのアポスティーユ拡張
