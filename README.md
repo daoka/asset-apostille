@@ -2,6 +2,8 @@
 
 - [Japanese](./README_ja.md)
 
+Apostille asset is transferable public aopstille using mosaics.
+
 ## Background
 
 - NEM's Apostille has two types. The first is public apostille. The second is private apostille.
